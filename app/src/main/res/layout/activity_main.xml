@@ -25,15 +25,11 @@
 <!--            android:textOff="বাংলা" />-->
         <androidx.appcompat.widget.SwitchCompat
             android:id="@+id/languageToggle"
-            android:layout_width="100dp"
-            android:layout_height="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:textOff="BN"
             android:textOn="ENG"
-            android:thumbTextPadding="0dp"
-            android:showText="true"
-            android:textAlignment="center"
-            app:thumbTint="@null"
-            app:track="@drawable/bg_switch_track"
+            android:textColor="@color/black"
             />
 
 
