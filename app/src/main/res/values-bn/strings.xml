@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PatientMonitoringDemo</string>
+    <string name="welcome">স্বাগতম</string>
+    <string name="second">দ্বিতীয়</string>
+</resources>
